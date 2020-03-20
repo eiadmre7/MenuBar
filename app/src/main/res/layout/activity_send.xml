@@ -10,9 +10,9 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_gravity="bottom"
+        android:layout_gravity="center"
         android:layout_marginTop="20dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         app:srcCompat="@mipmap/chrome_round" />
 </LinearLayout>
